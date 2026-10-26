@@ -1,4 +1,4 @@
-# was-cloud-security-monitoring-lab
+# AWS-cloud-security-monitoring-lab
 Hands on AWS Security Lab Using S3, Cloudtrail,GuardDuty,and AwsBudgets.
 # AWS Cloud Security Monitoring Lab
 
