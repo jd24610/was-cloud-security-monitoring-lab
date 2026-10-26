@@ -72,3 +72,8 @@ It also reinforced the importance of verifying security settings and monitoring 
 
 ## Disclaimer
 This project was created for educational purposes in a personal AWS environment. No real-world security incident was investigated.
+### S3 Public Access Protection
+
+All four S3 Block Public Access settings are enabled.
+
+![S3 Block Public Access](screenshots/s3-block-public-access.png)
